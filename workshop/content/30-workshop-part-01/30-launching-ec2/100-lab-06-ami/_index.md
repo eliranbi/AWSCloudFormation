@@ -43,14 +43,14 @@ Go to the AWS console and update your stack with a new template.
 1. You can click the **refresh** button a few times until you see in the status **UPDATE_COMPLETE**.
 
 {{%expand "How do I update a Stack?" %}}
-![update-2](100-lab-06-ami/update-2.gif)
+![update-2](../100-lab-06-ami/update-2.gif)
 {{% /expand %}}
 
 ### Challenge
 Deploy the template in different AWS Region to the one you have been using.
 
 {{%expand "Solution" %}}
-![new-region-](100-lab-06-ami/new-region-1.gif)
+![new-region-](../100-lab-06-ami/new-region-1.gif)
 {{% /expand %}}
 
 {{% notice note %}}

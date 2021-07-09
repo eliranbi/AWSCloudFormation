@@ -296,7 +296,7 @@ In the example below, you will use `AvailabilityZone` property and parameter to 
 1. Select the file `07-lab09-HelperScripts.yaml` and click **Next**.
 1. For **Amazon Machine Image ID** leave the default value in.
 1. For **AvailabilityZone** parameter, select the different availability zone than the one you made a note in a step 3, for example **eu-west-2b**.
-        ![az-update](400-lab-09-helper-scripts/az-update-1.png)
+        ![az-update](../400-lab-09-helper-scripts/az-update-1.png)
 1. For **EnvironmentType** leave the selected environment in.
 1. You can leave **Configure stack options** default, click **Next**.
 1. On the **Review <stack_name>** page, scroll down to the bottom and tick **I acknowledge that AWS CloudFormation might create IAM resources** check box, then click on **Update stack**.
@@ -355,7 +355,7 @@ Add the code below to html `<h2>` tags:
 Open a new browser window in private mode and enter the `WebsiteURL` (you can get the WebsiteURL from the _Outputs_ tab of the CloudFormation console).
 You should see the AMI ID added to the page, similar to the picture below.
 
-![ami-id](400-lab-09-helper-scripts/ami-id-1.png)
+![ami-id](../400-lab-09-helper-scripts/ami-id-1.png)
 
 ### Clean up
 

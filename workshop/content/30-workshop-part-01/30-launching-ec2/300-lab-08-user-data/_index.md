@@ -17,7 +17,7 @@ In this lab you will deploy an Apache Web server with a simple PHP application v
 
 The following diagram provides a high-level overview of the architecture you will implement.
 
-![user-data-png](300-lab-08-user-data/userdata.png)
+![user-data-png](../300-lab-08-user-data/userdata.png)
 
 ### Start Lab
 
@@ -146,11 +146,11 @@ Similar to previous labs, update the stack with the updated template. Once Cloud
 
 In a web browser, enter the `WebsiteURL` (you can get the WebsiteURL from the _Outputs_ tab of the CloudFormation console).
 
-![outputs](300-lab-08-user-data/outputs-1.png)
+![outputs](../300-lab-08-user-data/outputs-1.png)
 
 You should see a page similar to the picture below:
 
-![php-page](300-lab-08-user-data/php.png)
+![php-page](../300-lab-08-user-data/php.png)
 
 ---
 

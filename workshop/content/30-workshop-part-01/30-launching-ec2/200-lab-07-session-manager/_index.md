@@ -29,7 +29,7 @@ Session Manager has several benefits over using SSH:
 The EC2 instance needs access to the internet, or a VPC Endpoint for Session Manager to work.
 {{% /notice %}}
 
-![ssm](200-lab-07-session-manager/ssm-sm-1.png)
+![ssm](../200-lab-07-session-manager/ssm-sm-1.png)
 
 ### Topics Covered
 In this Lab, you will learn:
@@ -139,7 +139,7 @@ Paste the following command inside the instance terminal:
 curl http://169.254.169.254/latest/meta-data/ami-id
 ```
 
-![ssm-sm](200-lab-07-session-manager/ssm-sm-1.gif)
+![ssm-sm](../200-lab-07-session-manager/ssm-sm-1.gif)
 {{% /expand %}}
 
 {{% notice warning %}}

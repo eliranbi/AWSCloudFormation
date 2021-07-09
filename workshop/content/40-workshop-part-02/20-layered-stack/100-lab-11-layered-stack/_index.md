@@ -20,11 +20,11 @@ In this lab, you will build:
 
 Here is a diagram showing the hierarchy of layered stacks.
 
-![layered-stack-hierarchy.png](100-lab-11-layered-stack/layered-stack-hierarchy.png)
+![layered-stack-hierarchy.png](../100-lab-11-layered-stack/layered-stack-hierarchy.png)
 
 This diagram represents the high-level overview of the infrastructure that will be deployed:
 
-![layered-stack-hierarchy.png](100-lab-11-layered-stack/ls-architecture.png)
+![layered-stack-hierarchy.png](../100-lab-11-layered-stack/ls-architecture.png)
 
 ### Start Lab
 
@@ -177,7 +177,7 @@ WebServerSecurityGroup:
 Open a new browser window in private mode and enter the `WebsiteURL` (you can get the WebsiteURL from the **Outputs** tab of the EC2 stack in the CloudFormation console).
 You should see some instance metadata, similar to the picture below.
 
-![ami-id](100-lab-11-layered-stack/ami-id-1.png)
+![ami-id](../100-lab-11-layered-stack/ami-id-1.png)
 
 ##### 2. Log in to the instance using SSM Session Manager
 
@@ -193,7 +193,7 @@ After the stack imports an output value, you can't delete the stack that is expo
 
 For example, you can not delete the **VPC stack** before you delete **EC2 stack**. You get following error message:
 
-![delete-export-before-import.png](100-lab-11-layered-stack/delete-export-before-import.png)
+![delete-export-before-import.png](../100-lab-11-layered-stack/delete-export-before-import.png)
 
 1. In the **[CloudFormation console](https://console.aws.amazon.com/cloudformation)**, select the **EC2 stack**, for example `cfn-workshop-ec2`.
 1. In the top right corner, click on **Delete**.

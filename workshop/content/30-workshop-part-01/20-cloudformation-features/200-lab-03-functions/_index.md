@@ -100,7 +100,7 @@ Now it is time to update your stack. Go to the AWS console and update your Cloud
 1. Select the instance with a name **t2.micro-webserver**
 1. Go to the **Tags** tab, you should see there a key `Name` with a value `t2.micro-webserver`.
 
-    ![tags-png](200-lab-03-functions/tags.png)
+    ![tags-png](../200-lab-03-functions/tags.png)
 
 ### Challenge
 Crete another tag named `InstanceType` and use intrinsic function **Fn::Sub** to return type of the instance.

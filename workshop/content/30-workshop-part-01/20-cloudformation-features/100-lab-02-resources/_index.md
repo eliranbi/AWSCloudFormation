@@ -103,7 +103,7 @@ The only required property of the EC2 resource type is _ImageId_. Let's find the
   Make sure to use **(x86)** AMI ID, if the region supports both x86 and ARM architectures.
   {{% /notice %}}
   {{% expand "Expand to see the solution" %}}
-  ![ami-gif](100-lab-02-resources/ami-1.gif)
+  ![ami-gif](../100-lab-02-resources/ami-1.gif)
   {{% /expand %}}
   1. Once you have your AMI ID, copy and paste it to **ImageId** property.
 
@@ -161,7 +161,7 @@ aws ssm get-parameters \
   --output text
 ```
 
-![ami-id-gif](100-lab-02-resources/ami-id.gif)
+![ami-id-gif](../100-lab-02-resources/ami-id.gif)
 {{% /expand %}}
 
 ---

@@ -23,11 +23,11 @@ In this lab, you will build:
 
 > Top level and first level hierarchy of nested stacks.
 
-![nested-stack-hierarchy](100-lab-10-nested-stacks/nested-stack-hierarchy.png)
+![nested-stack-hierarchy](../100-lab-10-nested-stacks/nested-stack-hierarchy.png)
 
 > The following diagram represents high level overview of the infrastructure:
 
-![nested-stack-architecture](100-lab-10-nested-stacks/ns-architecture.png)
+![nested-stack-architecture](../100-lab-10-nested-stacks/ns-architecture.png)
 
 ### Start Lab
 
@@ -158,7 +158,7 @@ Please double check **Parameters** and **Resources** sections are correctly form
 1. You can leave rest of the parameters default.
 1. You can leave **Configure stack options** default, click **Next**.
 1. On the **Review <stack_name>** page, scroll down to the bottom and tick both **IAM Capabilities** check boxes.
-    ![iam-capabilities.png](100-lab-10-nested-stacks/iam-capabilities.png)
+    ![iam-capabilities.png](../100-lab-10-nested-stacks/iam-capabilities.png)
 1. Click on **Create stack**. You can view the progress of Nested stacks being created in CloudFormation console.
 1. In a few minutes, stacks will be created. Hit the refresh button a few times until you see in the status CREATE_COMPLETE.
 
@@ -432,11 +432,11 @@ Open a new browser window in private mode and enter the `WebsiteURL`.
 
 You can get the `WebsiteURL` from the **Outputs** tab of the main stack in CloudFormation console.
 
-![website-url-output.png](100-lab-10-nested-stacks/website-url-output.png)
+![website-url-output.png](../100-lab-10-nested-stacks/website-url-output.png)
 
 In the browser window, you should see some instance metadata, similar to the picture below.
 
-![ami-id](100-lab-10-nested-stacks/ami-id-1.png)
+![ami-id](../100-lab-10-nested-stacks/ami-id-1.png)
 
 ##### 2. Log in to instance using SSM Session Manager
 
