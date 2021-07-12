@@ -26,6 +26,7 @@ The AWS CloudFormation templates in this workshop include configuration paramete
 
 My important paragraph.
 {: .alert .alert-info}
+
 You are responsible for the cost of the AWS services used while running this workshop. There is no additional cost for using this workshop.
 {{% /notice %}}
 
