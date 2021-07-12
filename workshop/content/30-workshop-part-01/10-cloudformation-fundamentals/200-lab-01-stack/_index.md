@@ -4,6 +4,8 @@ date: 2019-10-25T17:41:16+01:00
 weight: 200
 ---
 
+# LAB 01: TEMPLATE AND STACK
+
 ### Overview
 This lab will start with the most basic template containing only Resources object, which contains a single resource declaration of the S3 bucket.
 

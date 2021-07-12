@@ -4,6 +4,8 @@ date: 2019-10-16T17:18:51+01:00
 weight: 10
 ---
 
+# CLOUDFORMATION FUNDAMENTALS
+
 ![cfn-png](../10-cloudformation-fundamentals/cfn-1.png)
 
 In this section, you will be introduced to the basic concepts of AWS CloudFormation.

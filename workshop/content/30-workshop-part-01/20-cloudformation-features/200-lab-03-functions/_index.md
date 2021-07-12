@@ -4,6 +4,8 @@ date: 2019-11-01T13:36:34Z
 weight: 200
 ---
 
+# LAB 03: INTRINSIC FUNCTIONS
+
 ### Overview
 
 This lab shows how to use **[Intrinsic Functions](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html)** in your template.

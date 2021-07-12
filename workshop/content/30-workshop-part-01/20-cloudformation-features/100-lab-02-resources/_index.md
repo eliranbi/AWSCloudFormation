@@ -4,6 +4,8 @@ date: 2019-10-28T14:35:59Z
 weight: 100
 ---
 
+# LAB 02: RESOURCES
+
 ### Overview
 
 In this Lab, you will learn little more about CloudFormation top-level sections, including Format Version, Description, Metadata, Parameters and Resources.

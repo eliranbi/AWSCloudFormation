@@ -4,6 +4,8 @@ date: 2019-11-05T09:25:05Z
 weight: 400
 ---
 
+# LAB 05: OUTPUTS
+
 ### Overview
 
 In this lab you will learn about **[Outputs](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/outputs-section-structure.html)**. _Outputs_ enable you to get access to information about resources within a stack. For example, you can output an EC2

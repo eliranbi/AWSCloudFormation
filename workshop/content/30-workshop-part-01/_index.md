@@ -4,6 +4,8 @@ date: 2019-12-05T17:35:24Z
 weight: 30
 ---
 
+# WORKSHOP PART 01
+
 Welcome to the first part of the workshop.
 
 This part will introduce the core concepts of CloudFormation.  You will build an initial template, then improve it in each lab. You will also learn how to deploy it from the console.

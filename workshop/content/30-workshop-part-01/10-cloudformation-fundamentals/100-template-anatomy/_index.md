@@ -4,6 +4,8 @@ date: 2019-10-25T16:15:53+01:00
 weight: 100
 ---
 
+# TEMPLATE ANATOMY
+
 ### Template
 
 **An AWS CloudFormation template** is a declaration of the AWS resources that make up a **stack**. The template is stored as a text file in either JavaScript Object Notation (JSON) or YAML format. Because they are just text files, you can create and edit them in any text editor and manage them in your source control system with the rest of your source code.

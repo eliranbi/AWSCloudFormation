@@ -4,6 +4,8 @@ date: 2019-11-01T13:36:34Z
 weight: 300
 ---
 
+# LAB 04: MAPPING
+
 ### Overview
 
 This lab will introduce **[Mappings](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/mappings-section-structure.html)**. A _Mappings_ section is a top level section of a CloudFormation template. It is used to define maps, their keys and values which can be then referenced in your template.
