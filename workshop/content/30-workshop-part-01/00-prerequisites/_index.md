@@ -73,7 +73,7 @@ You may use any code editor or IDE of your choice that supports editing YAML but
 
     ![cf-c9-](../00-prerequisites/8.CF-CreateStack-next-next.png)
 
-11. On the next page scroll to the borrom and press the **Create stack** button
+11. On the **Review Cloud9-CF-IDE** page scroll to the borrom and press the **Create stack** button
 
     ![cf-c9-](../00-prerequisites/9.CF-CreateStack-createStack-button.png)
 
