@@ -58,7 +58,7 @@ In this Lab, you will:
 
 1. View the output value on the [AWS CloudFormation console](https://console.aws.amazon.com/cloudformation), in the _Outputs_ tab.
 {{%expand "How to view Outputs?" %}}
-![outputs-gif](400-lab-05-outputs/outputs-1.gif)
+![outputs-gif](../400-lab-05-outputs/outputs-1.gif)
 {{% /expand %}}
 
 ### Challenge
