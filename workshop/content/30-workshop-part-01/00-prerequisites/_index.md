@@ -11,6 +11,11 @@ AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets y
 
 The workshop requires that a default VPC is available in the region you will be deploying CloudFormation templates to (You will have a default VPC unless you have removed it)
 
+
+You may use any code editor or IDE of your choice that supports editing YAML but for this workshop we will assume the use of AWS Cloud9 IDE on AWS Cloud.
+
+We are going to use CloudFormation to create a new instance of Cloud9 within you AWS temporary account crated for you by your account team.
+
 ### 1. Create a Cloud9 IDE
 
 1. Open the Amazon CloudFormation console at [https://console.aws.amazon.com/](https://console.aws.amazon.com/) 
