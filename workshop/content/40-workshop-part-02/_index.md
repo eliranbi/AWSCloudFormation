@@ -4,6 +4,8 @@ date: 2019-12-05T17:37:48Z
 weight: 40
 ---
 
+# WORKSHOP PART 02
+
 Welcome to the second part of the workshop. This part introduces more advanced CloudFormation concepts.
 
 + First, you will learn how to manage multiple stacks, by introducing **[Nested Stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-nested-stacks.html)** and **[Layered Stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-stack-exports.html)**.

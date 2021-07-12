@@ -4,6 +4,8 @@ date: 2020-02-16T14:46:43Z
 weight: 100
 ---
 
+# LAB 11: LAYERED STACK
+
 ### Overview
 In the previous lab, we saw how we use the `Outputs` section and the `Fn::GetAtt` function to pass values from a child stack to parent stack. This enabled us to have dedicated templates for a VPC and an IAM role. As we mentioned previously, this gives us the ability to create templates that can be re-used. However, what about if we want to re-use **stacks**?
 

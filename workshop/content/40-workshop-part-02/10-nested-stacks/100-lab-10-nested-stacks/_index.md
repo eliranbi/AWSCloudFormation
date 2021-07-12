@@ -4,6 +4,8 @@ date: 2019-11-13T16:52:42Z
 weight: 100
 ---
 
+# LAB 10: NESTED STACKS
+
 ### Overview
 
 Your CloudFormation template has grown considerably over the course of this workshop. As your infrastructure grows, common patterns can emerge in which you declare the same components in each of your templates.

@@ -4,6 +4,8 @@ date: 2019-11-25T14:55:21Z
 weight: 100
 ---
 
+# LAB 12: PACKAGE AND DEPLOY
+
 ### Overview
 
 In the [Part 01](/30-workshop-part-01.html) of this workshop, you have deployed single YAML templates via CloudFormation console. That was pretty easy to do so. However, in some cases, CloudFormation templates refer to other files, or artifacts.
