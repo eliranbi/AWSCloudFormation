@@ -24,9 +24,9 @@ Second part will take approximately 3 hours.
 
 The AWS CloudFormation templates in this workshop include configuration parameters that you can customize. Some of these settings, such as **instance type**, will affect the cost of deployment. For cost estimates, see the pricing pages for each AWS service you will be using. Prices are subject to change.
 
-:+1:
+:warning:
 You are responsible for the cost of the AWS services used while running this workshop. There is no additional cost for using this workshop.
 
 
-{{% notice tip %}}
+:warning:
 You can enable the [AWS Cost and Usage Report](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-reports-gettingstarted-turnonreports.html) to track costs associated with the workshop. This report delivers billing metrics to an S3 bucket in your account. It provides cost estimates based on usage throughout each month, and finalizes the data at the end of the month. For more information about the report, see the [AWS documentation](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-reports-costusage.html).
