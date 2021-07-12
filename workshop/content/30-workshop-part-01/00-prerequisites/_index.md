@@ -9,10 +9,7 @@ AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets y
 [Learn more about Cloud9](https://aws.amazon.com/cloud9/)
 
 
-The workshop requires that a default VPC is available in the region you will be deploying CloudFormation templates to.
-
-
-You will have a default VPC unless you have removed it. If you are unsure, follow the instructions below to check.
+The workshop requires that a default VPC is available in the region you will be deploying CloudFormation templates to (You will have a default VPC unless you have removed it)
 
 ### 1. Create a Cloud9 IDE
 
@@ -67,7 +64,7 @@ You will have a default VPC unless you have removed it. If you are unsure, follo
 
     ![cf-c9-](../00-prerequisites/11.CF-CreateStack-progress-completed.png)
 
-14. Click on the **Output** tab and press on the **Cloud9URL 
+14. Click on the **Output** tab and press on the **Cloud9URL** 
 
     ![cf-c9-](../00-prerequisites/12.CF-CreateStack-output.png)
 
