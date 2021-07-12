@@ -106,5 +106,17 @@ You may use any code editor or IDE of your choice that supports editing YAML but
     ![cf-c9-](../00-prerequisites/16.CF-CreateStack-C9-started-git.png)
 
 
+### During the lab you will be required to download the CloudFormation yaml files to your local machine and upload them to the CloudFormation stack template 
+
+### 2. Download the CloudFormation Template
+
+1. Within the Cloud9 IDE select the .yaml file (ie: 02-lab01-StackExample-Solution.yaml)
+2. Right click on the file and select **Download**
+
+![cf-c9-](../00-prerequisites/1.SaveFile-1.png)   
+![cf-c9-](../00-prerequisites/1.SaveFile-2.png)   
+![cf-c9-](../00-prerequisites/1.SaveFile-3.png)   
+
+
 Congratulations, you have successfully bootstrapped an AWS Cloud9 using CloudFormation template! In the next section you will learn the CloudFormation fundamentals 
 
