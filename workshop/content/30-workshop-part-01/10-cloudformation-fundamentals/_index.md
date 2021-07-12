@@ -22,4 +22,5 @@ In this section, you will be introduced to the basic concepts of AWS CloudFormat
 
 ---
 
-{{% children showhidden="false" %}}
+- [Template Anatomy](/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/100-template-anatomy/_index.md)
+- [Lab 01: Template and Stack](/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/200-lab-01-stack/_index.md)
