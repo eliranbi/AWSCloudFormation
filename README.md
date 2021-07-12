@@ -54,3 +54,31 @@ cp .env.example .env
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+
+## Labs 
+
+#### WORKSHOP PART 01
+- [Workshop Part 01](../cfn101-workshop-master/workshop/content/30-workshop-part-01/_index.md)
+- [CloudFormation Fundamentals](../cfn101-workshop-master/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/_index.html)
+- [Template Anatomy](../cfn101-workshop-master/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/100-template-anatomy/_index.md)
+- [Lab 01: Template and Stack](../cfn101-workshop-master/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/200-lab-01-stack/_index.md)
+- [CloudFormation Features](../cfn101-workshop-master/workshop/content/30-workshop-part-01/20-cloudformation-features/_index.md)
+- [Lab 02: Resources](../cfn101-workshop-master/workshop/content/30-workshop-part-01/20-cloudformation-features/100-lab-02-resources/_index.md)
+- [Lab 03: Intrinsic Functions](../cfn101-workshop-master/workshop/content/30-workshop-part-01/20-cloudformation-features/200-lab-03-functions/_index.md)
+- [Lab 04: Mapping](../cfn101-workshop-master/workshop/content/30-workshop-part-01/20-cloudformation-features/300-lab-04-mappings/_index.md)
+- [Lab 05: Outputs](../cfn101-workshop-master/workshop/content/30-workshop-part-01/20-cloudformation-features/400-lab-05-outputs/_index.md)
+- [Launching an EC2 Instance](../cfn101-workshop-master/workshop/content/30-workshop-part-01/30-launching-ec2/_index.md)
+- [Lab 06: Multi Region Latest AMI](../cfn101-workshop-master/workshop/content/30-workshop-part-01/30-launching-ec2/100-lab-06-ami/_index.md)
+- [Lab 07: SSM - Session Manager](../cfn101-workshop-master/workshop/content/30-workshop-part-01/30-launching-ec2/200-lab-07-session-manager/_index.md)
+- [Lab 08: User Data](../cfn101-workshop-master/workshop/content/30-workshop-part-01/30-launching-ec2/300-lab-08-user-data/_index.md)
+- [Lab 09: Helper Scripts](../cfn101-workshop-master/workshop/content/30-workshop-part-01/30-launching-ec2/400-lab-09-helper-scripts/_index.md)
+
+#### Workshop Part 02
+- [Workshop Part 02](../cfn101-workshop-master/workshop/content/40-workshop-part-02/_index.md)
+- [Nested Stacks](../cfn101-workshop-master/workshop/content/40-workshop-part-02/10-nested-stacks/100-lab-10-nested-stacks/_index.md)
+- [Lab 10: Nested Stacks](../cfn101-workshop-master/workshop/content/40-workshop-part-02/10-nested-stacks/_index.md)
+- [Layered Stack](../cfn101-workshop-master/workshop/content/40-workshop-part-02/20-layered-stack/_index.md)
+- [Lab 11: Layered Stack](../cfn101-workshop-master/workshop/content/40-workshop-part-02/20-layered-stack/100-lab-11-layered-stack/_index.md)
+- [Package and Deploy](../cfn101-workshop-master/workshop/content/40-workshop-part-02/30-package-and-deploy/_index.md)
+- [Lab 12: Package and Deploy](../cfn101-workshop-master/workshop/content/40-workshop-part-02/../50-next-steps/_index.md)
