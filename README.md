@@ -59,7 +59,7 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 ## Labs 
 
 #### WORKSHOP PART 01
-- [Workshop Part 01](../cfn101-workshop-master/workshop/content/30-workshop-part-01/_index.md)
+- [Workshop Part 01](../workshop/content/30-workshop-part-01/_index.md)
 - [CloudFormation Fundamentals](../cfn101-workshop-master/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/_index.html)
 - [Template Anatomy](../cfn101-workshop-master/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/100-template-anatomy/_index.md)
 - [Lab 01: Template and Stack](../cfn101-workshop-master/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/200-lab-01-stack/_index.md)
