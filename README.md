@@ -59,6 +59,7 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 ## Labs 
 
 #### WORKSHOP PART 01
+- [Workshop Prerequisites](/workshop/content/30-workshop-part-01/00-prerequisites/_index.md)
 - [Workshop Part 01](/workshop/content/30-workshop-part-01/_index.md)
 - [CloudFormation Fundamentals](/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/_index.md)
 - [Template Anatomy](/workshop/content/30-workshop-part-01/10-cloudformation-fundamentals/100-template-anatomy/_index.md)
