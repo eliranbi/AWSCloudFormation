@@ -20,4 +20,7 @@ In this chapter you will improve the existing template with the following featur
 + Bootstrap the instance using a _UserData_ script.
 + Use `cfn-init` to assist bootstrapping an EC2 instance.
 
-{{% children showhidden="false" %}}
+- [Lab 06: Multi Region Latest AMI](/workshop/content/30-workshop-part-01/30-launching-ec2/100-lab-06-ami/_index.md)
+- [Lab 07: SSM - Session Manager](/workshop/content/30-workshop-part-01/30-launching-ec2/200-lab-07-session-manager/_index.md)
+- [Lab 08: User Data](/workshop/content/30-workshop-part-01/30-launching-ec2/300-lab-08-user-data/_index.md)
+- [Lab 09: Helper Scripts](/workshop/content/30-workshop-part-01/30-launching-ec2/400-lab-09-helper-scripts/_index.md)
