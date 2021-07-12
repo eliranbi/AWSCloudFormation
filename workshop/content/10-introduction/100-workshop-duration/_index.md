@@ -1,9 +1,11 @@
+{::options parse_block_html="true" /}
+
 ---
 title: "Workshop Duration and Cost"
 date: 2020-01-10T18:21:37Z
 weight: 100
 ---
-{::options parse_block_html="true" /}
+
 
 ### Workshop Duration
 
