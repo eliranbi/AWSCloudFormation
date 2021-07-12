@@ -8,4 +8,8 @@ weight: 20
 
 In this section you will write a simple CloudFormation template, create a CloudFormation stack based on your template, and learn how to update the stack as you make changes.
 
-{{% children showhidden="" %}}
+- [Lab 02: Resources](/workshop/content/30-workshop-part-01/20-cloudformation-features/100-lab-02-resources/_index.md)
+- [Lab 03: Intrinsic Functions](/workshop/content/30-workshop-part-01/20-cloudformation-features/200-lab-03-functions/_index.md)
+- [Lab 04: Mapping](/workshop/content/30-workshop-part-01/20-cloudformation-features/300-lab-04-mappings/_index.md)
+- [Lab 05: Outputs](/workshop/content/30-workshop-part-01/20-cloudformation-features/400-lab-05-outputs/_index.md)
+
