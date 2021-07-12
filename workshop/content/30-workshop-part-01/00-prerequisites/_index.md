@@ -33,7 +33,7 @@ The workshop requires that a default VPC is available in the region you will be 
 
    1. Choose **Template is ready** option
    2. Choose **Upload a template file** option
-   3. Download the Cloud9 IDE CloudFormation template using this [link]([http://](https://raw.githubusercontent.com/eliranbi/AWSCloudFormation/main/code/Cloud9_CloudFormation_Template.yaml)) and save the file on your local environment, name it **Cloud9_CloudFormation_Template.yaml**
+   3. Download the Cloud9 IDE CloudFormation template using this [link]([http://](https://raw.githubusercontent.com/eliranbi/AWSCloudFormation/main/code/Cloud9_CloudFormation_Template.yaml) and save the file on your local environment, name it **Cloud9_CloudFormation_Template.yaml**
    4. Press on the  **Chose file** button and select the **Cloud9_CloudFormation_Template.yaml** file and press the **Open** button
 
     ![cf-c9-](../00-prerequisites/4.CF-CreateStack-upload-file.png)
