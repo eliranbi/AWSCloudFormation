@@ -14,7 +14,23 @@ The workshop requires that a default VPC is available in the region you will be 
 
 You may use any code editor or IDE of your choice that supports editing YAML but for this workshop we will assume the use of AWS Cloud9 IDE on AWS Cloud.
 
-We are going to use CloudFormation to create a new instance of Cloud9 within you AWS temporary account crated for you by your account team.
+**If you choose to use your own code editor you can clone the code to your local environment by running the follwoing command** 
+
+1. Clone the repository to your working directory:
+
+    ```shell
+    $ git clone https://github.com/aws-samples/cfn101-workshop
+    ```
+
+    Or Download the ZIP file from [the Github repository page](https://github.com/aws-samples/cfn101-workshop):
+   
+   ![git-download-png](../../20-prerequisites/500-lab-resources/git-download.png)
+
+
+
+
+
+### We are going to use CloudFormation to create a new instance of Cloud9 within you AWS temporary account crated for you by your account team.
 
 ### 1. Create a Cloud9 IDE
 
