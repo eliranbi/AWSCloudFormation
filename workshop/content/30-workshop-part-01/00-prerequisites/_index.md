@@ -22,7 +22,7 @@ You may use any code editor or IDE of your choice that supports editing YAML but
     $ git clone https://github.com/eliranbi/AWSCloudFormation.git
     ```
 
-    Or Download the ZIP file from [the Github repository page](hhttps://github.com/eliranbi/AWSCloudFormation):
+    Or Download the ZIP file from [the Github repository page](https://github.com/eliranbi/AWSCloudFormation):
    
    ![git-download-png](../../20-prerequisites/500-lab-resources/git-download.png)
 
