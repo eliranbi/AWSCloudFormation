@@ -14,7 +14,7 @@ The workshop requires that a default VPC is available in the region you will be 
 
 You may use any code editor or IDE of your choice that supports editing YAML but for this workshop we will assume the use of AWS Cloud9 IDE on AWS Cloud.
 
-[Optional] - **If you choose to use your own code editor you can clone the code to your local environment by running the follwoing command** 
+**[Optional]** - If you choose to use your own code editor you can clone the code to your local environment by running the follwoing command
 
 1. Clone the repository to your working directory:
 
