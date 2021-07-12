@@ -17,13 +17,13 @@ By the end of this lab, you will be able to:
 
 ### Start Lab
 
-{{% notice note %}}
+:warning:
 As you read through each section, there are code samples at the end. Copy these into your own template file.
-{{% /notice %}}
+
 
 1. Go to `code/20-cloudformation-features/` directory.
-1. Open the `01-lab02-Resources.yaml` file.
-1. Copy the code as you go through the topics below.
+2. Open the `01-lab02-Resources.yaml` file.
+3. Copy the code as you go through the topics below.
 
 #### Format Version
 The _AWSTemplateFormatVersion_ section identifies the capabilities of the template. The latest template format version is _2010-09-09_ and is currently the only valid value.
@@ -99,9 +99,9 @@ The only required property of the EC2 resource type is _ImageId_. Let's find the
   1. Open **[AWS EC2 console](https://console.aws.amazon.com/ec2)**
   1. Click **Instances** -> **Launch Instance**.
   1. Copy the **Amazon Linux 2 AMI** `ami-xxxxxxxxx` ID.
-  {{% notice note %}}
+  :warning:
   Make sure to use **(x86)** AMI ID, if the region supports both x86 and ARM architectures.
-  {{% /notice %}}
+  
   {{% expand "Expand to see the solution" %}}
   ![ami-gif](../100-lab-02-resources/ami-1.gif)
   {{% /expand %}}

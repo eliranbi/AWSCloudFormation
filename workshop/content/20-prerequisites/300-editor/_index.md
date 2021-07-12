@@ -14,7 +14,7 @@ We recommend you install the [AWS CloudFormation Linter](https://github.com/aws-
 
 If you are using Visual Studio Code, you should install the [cfn-lint](https://marketplace.visualstudio.com/items?itemName=kddejong.vscode-cfn-lint) plugin.
 
-{{% notice tip %}}
+:warning:
 Note that `cfn-lint` is not installed automatically with the Visual Studio Code  `cfn-lint` extension.
 Install it separately following the [installation instructions](https://github.com/aws-cloudformation/cfn-python-lint#install)
-{{% /notice %}}
+
