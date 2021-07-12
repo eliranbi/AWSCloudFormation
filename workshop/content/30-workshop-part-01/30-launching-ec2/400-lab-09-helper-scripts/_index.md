@@ -4,6 +4,8 @@ date: 2019-11-25T15:08:39Z
 weight: 400
 ---
 
+# LAB 09: HELPER SCRIPTS
+
 ### Overview
 In this lab we will look into CloudFormation [Helper Scripts](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-helper-scripts-reference.html). What you have learned in a previous lab is a great starting point. However, as you may notice from your `UserData` example, procedural scripting is not ideal. You have deployed a simple PHP application, but imagine trying to write much more complicated app in userdata. That would be very tricky.
 

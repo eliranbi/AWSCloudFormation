@@ -4,6 +4,8 @@ date: 2019-11-13T16:52:42Z
 weight: 300
 ---
 
+# LAB 08: USER DATA
+
 ### Overview
 
 You can use AWS CloudFormation to automatically install, configure, and start applications on Amazon EC2 instances. Doing so enables you to easily replicate deployments and update existing installations without connecting directly to the instance, which can save you a lot of time and effort.

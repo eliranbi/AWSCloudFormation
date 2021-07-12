@@ -4,6 +4,8 @@ date: 2019-11-07T13:46:21Z
 weight: 100
 ---
 
+# LAB 06: MULTI REGION LATEST AMI
+
 ### Overview
 Consider the use case of deploying your current template in different regions. You would need to manually change `AmiID` property in your template to match the AMI ID for each AWS Region. Similarly, if there is an update to the Amazon Machine Image, and you would like to use the latest image, the same manual process would apply.
 

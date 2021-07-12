@@ -4,6 +4,8 @@ date: 2019-11-08T11:23:07Z
 weight: 200
 ---
 
+# LAB 07: SSM - SESSION MANAGER
+
 ### Overview
 
 [Session Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html) is a fully managed AWS Systems Manager capability that lets you manage your Amazon EC2 instances through an interactive one-click browser-based terminal or via the AWS CLI.

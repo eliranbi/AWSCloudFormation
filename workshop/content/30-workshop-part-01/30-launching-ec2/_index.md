@@ -5,6 +5,8 @@ weight: 30
 chapter: true
 ---
 
+# LAUNCHING AN EC2 INSTANCE
+
 # Launching an EC2 Instance
 
 ![](ec2-1.png)
