@@ -24,7 +24,8 @@ Second part will take approximately 3 hours.
 
 The AWS CloudFormation templates in this workshop include configuration parameters that you can customize. Some of these settings, such as **instance type**, will affect the cost of deployment. For cost estimates, see the pricing pages for each AWS service you will be using. Prices are subject to change.
 
-{{% notice warning %}}
+My important paragraph.
+{: .alert .alert-info}
 You are responsible for the cost of the AWS services used while running this workshop. There is no additional cost for using this workshop.
 {{% /notice %}}
 
