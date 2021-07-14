@@ -30,6 +30,6 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       # Use !Ref function in ImageId property
-      ImageId: ami-00a1270ce1e007c27
+      ImageId: ami-0dc2d3e4c0f9ebd18
       InstanceType: !Ref InstanceType
       # Add Tags property here
