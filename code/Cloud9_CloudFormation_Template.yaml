@@ -10,6 +10,11 @@ Parameters:
   SubnetIdentifier:
     Description: SubnetId
     Type: AWS::EC2::Subnet::Id
+  S3BucketName:
+    Default: tests3bucket
+    Description: S3 bucket name (must be unique, use youe first+last+date)
+    Type: String
+    
 Resources:
   IDE:
     Type: AWS::Cloud9::EnvironmentEC2
@@ -26,6 +31,13 @@ Resources:
         Ref: EC2InstanceType
       Name:
         Ref: AWS::StackName
+    
+  S3:        
+    Type: AWS::S3::Bucket
+    Properties: 
+        BucketName: 
+            Ref: S3BucketName
+
 Outputs:
   Cloud9URL:
     Value:
@@ -34,3 +46,9 @@ Outputs:
       - - https://console.aws.amazon.com/cloud9/home/environments/
         - Ref: IDE
     Description: Cloud9 environment
+  S3:
+    Value: !Ref S3
+    Description: S3 bucket name
+  S3ARN:
+    Value: !GetAtt S3.Arn
+    Description: S3 bucket name
